@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>fdjgkfdb</firstName>
+        <lastName>jdhfbjgnf</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>NIKITA</firstName>
+        <lastName>BRANOVITSKI</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>fdszvf</firstName>
+        <lastName>dsfvf</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>set</firstName>
+        <lastName>like</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Alesya</firstName>
+        <lastName>Tihonchuk</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Another</firstName>
+        <lastName>One</lastName>
+    </case>
+    <case>
+        <id>7</id>
+        <firstName>dfholjkb</firstName>
+        <lastName>kfsj,gk</lastName>
+    </case>
+</cases>
