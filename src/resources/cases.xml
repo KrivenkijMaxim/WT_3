@@ -2,37 +2,27 @@
 <cases>
     <case>
         <id>1</id>
-        <firstName>fdjgkfdb</firstName>
-        <lastName>jdhfbjgnf</lastName>
+        <firstName>1</firstName>
+        <lastName>1</lastName>
     </case>
     <case>
         <id>2</id>
-        <firstName>NIKITA</firstName>
-        <lastName>BRANOVITSKI</lastName>
+        <firstName>2</firstName>
+        <lastName>2</lastName>
     </case>
     <case>
         <id>3</id>
-        <firstName>fdszvf</firstName>
-        <lastName>dsfvf</lastName>
+        <firstName>3</firstName>
+        <lastName>3</lastName>
     </case>
     <case>
         <id>4</id>
-        <firstName>set</firstName>
-        <lastName>like</lastName>
+        <firstName>4</firstName>
+        <lastName>4</lastName>
     </case>
     <case>
         <id>5</id>
-        <firstName>Alesya</firstName>
-        <lastName>Tihonchuk</lastName>
-    </case>
-    <case>
-        <id>6</id>
-        <firstName>Another</firstName>
-        <lastName>One</lastName>
-    </case>
-    <case>
-        <id>7</id>
-        <firstName>dfholjkb</firstName>
-        <lastName>kfsj,gk</lastName>
+        <firstName>5</firstName>
+        <lastName>5</lastName>
     </case>
 </cases>
